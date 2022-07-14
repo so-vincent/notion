@@ -1,2 +1,2 @@
 # notion
-Repository ued to create embeddable notion widgets
+Repository used to store embeddable notion widgets
